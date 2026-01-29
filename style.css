@@ -16,7 +16,7 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
-  padding: 2rem 0;
+  padding: 2rem;
   border-bottom: 1px solid #e5e7eb;
 }
 
@@ -260,6 +260,13 @@ footer {
   .hero-main {
     font-size: 3rem;
   }
+  .hero-container {
+    padding: 0 2rem;
+  }
+  .everything-container > p {
+    text-align: center;
+    padding: 0 2rem;
+  }
 }
 @media (max-width: 700px) {
   .stages,
@@ -268,9 +275,6 @@ footer {
   }
   .everything-container h2 {
     font-size: 3rem;
-  }
-  .everything-container > p {
-    text-align: center;
   }
   .ready-text h2 {
     font-size: 2.5rem;
