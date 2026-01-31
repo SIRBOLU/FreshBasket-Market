@@ -287,11 +287,11 @@ footer {
   }
   .ready-text p {
     font-size: 5px;
-    padding: 1rem;
+    padding: 2rem 3rem;
   }
   .ready-text button {
     padding: 1rem 2rem;
-    font-size: 5px;
+    font-size: 10px;
   }
 }
 @media (max-width: 700px) {
