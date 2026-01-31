@@ -28,6 +28,7 @@ nav {
 .ph {
   font-size: 3rem;
   color: #059669;
+  color: red;
 }
 .nav-menu {
   display: flex;
