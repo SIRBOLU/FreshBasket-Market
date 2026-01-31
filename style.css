@@ -282,13 +282,16 @@ footer {
     width: 45rem;
   }
   .ready-text h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     max-width: 40rem;
   }
   .ready-text p {
     font-size: 5px;
     padding: 1rem;
-    color: yellow;
+  }
+  .ready-text button {
+    padding: 1rem 2rem;
+    font-size: 5px;
   }
 }
 @media (max-width: 700px) {
