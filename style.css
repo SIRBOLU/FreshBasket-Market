@@ -279,7 +279,7 @@ footer {
 }
 @media (max-width: 600px) {
   .ready-text {
-    width: 50rem;
+    width: 45rem;
   }
   .ready-text h2 {
     font-size: 2rem;
@@ -288,11 +288,7 @@ footer {
   .ready-text p {
     font-size: 5px;
     padding: 1rem;
-  }
-  .ph {
-    font-size: 3rem;
-    /* color: #059669; */
-    color: red;
+    color: yellow;
   }
 }
 @media (max-width: 700px) {
